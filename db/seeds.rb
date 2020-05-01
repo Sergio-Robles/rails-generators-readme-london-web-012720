@@ -5,3 +5,9 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
+
+
+Post.create(title:"t1",description:"jwnecouewncwpekcmwpeicmwecmowe[ocmw[oemcw[eoc,w[oecmw[ocmwe[icmwecn",category_id:1,post_status:1)
+Post.create(title:"t2",description:"jwnecouewncwpekcmwpeicmwecmowe[ocmw[oemcw[eoc,w[oecmw[ocmwe[icmwecn",category_id:2,post_status:1)
+Post.create(title:"t3",description:"jwnecouewncwpekcmwpeicmwecmowe[ocmw[oemcw[eoc,w[oecmw[ocmwe[icmwecn",category_id:3,post_status:1)
+Post.create(title:"t4",description:"jwnecouewncwpekcmwpeicmwecmowe[ocmw[oemcw[eoc,w[oecmw[ocmwe[icmwecn",category_id:4,post_status:1)
